@@ -1,0 +1,20 @@
+shops:
+  default:
+    configName: "Default Shop"
+    profit: 35.0
+    delivery-delay: 48
+      #number of hours it takes for new product to be delivered
+    next-delivery: 1504242000000
+      #enter time of day in millis the next delivery should occur at - will automatically fix to current time
+    prodcuts:
+      cobblestone:
+        balance: 1280
+        minimum: 640
+        sold:
+        on-order:
+        #amount sold since last order
+      obsidian:
+        balance: 128
+        minimum: 192
+        sold:
+        on-order:

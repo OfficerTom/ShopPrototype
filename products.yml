@@ -1,0 +1,15 @@
+products:
+  cobblestone:
+    configName: "Cobblestone"
+    lore: ""
+    itemID: 4
+    damage: 0
+    cost: 0.8
+    pack: 320
+  obsidian:
+    configName: "Obsidian"
+    lore: ""
+    itemID: 49
+    damage: 0
+    cost: 50.0
+    pack: 64
